@@ -12,4 +12,13 @@
 //     age: 28
 // };
 
-const person
+const person = {
+    
+    firstName: "Martha",
+    lastName: "Martin",
+    age: 27
+};
+
+person.age = 28;
+
+console.log(person);
